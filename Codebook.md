@@ -37,7 +37,7 @@ For this group of estimated variables, two general measurements were kept:
 mean(): Mean value
 std(): Standard deviation
 
-Then, using these measurements, the mean of each was taken. This is denoted in each column name in the provided table. One will notice that each measurement starts with "Mean_of_" to indicate that it is the mean of each measurement. Furthermore whether or not it is the mean of the mean of said measurement or mean of the standard deviation of the measurement is clear based on wehtehr the column name ends with std() or mean(). 
+Then, using these measurements, the mean of each was taken. This is denoted in each column name in the provided table. One will notice that each measurement starts with "Mean_of_" to indicate that it is the mean of each of the measurements listed above. Furthermore whether or not it is the mean of the mean of said measurement or mean of the standard deviation of the measurement is clear based on wehther the column name ends with std() or mean(). 
 
 Means were taken of the measurements for each activity for each subjectID. Each row is thus defined by which activity and which subject it is averaging the measurements for, as indicated in the Activity and SubjectID rows (the first two columns in the dataset)
 
