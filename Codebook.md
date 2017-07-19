@@ -30,7 +30,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-(the following is edited to fit the provided table of data):
+#(the following is edited to fit the provided table of data):
 
 For this group of estimated variables, two general measurements were kept:
 
