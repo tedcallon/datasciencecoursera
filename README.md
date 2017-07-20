@@ -1,5 +1,12 @@
 # ReadMe
 
+In this project, wearable computing data gathered from the accelerometers from the Samsung Galaxy S smartphone was taken in its relatively raw form and cleaned and tidied. As described in the instructions, the necessary steps to take were: 
+1. Merges the training and the test sets to create one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement.
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names.
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 ## Coding Process:
 
 The ordering of the process, as commented in the code, diverged from the recommended ordering and instead went 1, 4, 2, 3, 5.
